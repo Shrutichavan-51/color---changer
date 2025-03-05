@@ -1,0 +1,53 @@
+body{
+     font-size: arial, sans-serif;
+     text-align: center;
+     transition: background-color 0.5s ease;
+}
+
+.canvas{
+     background-color: #fff;
+     padding: 10px 30px;
+     border-radius: 8px;
+     color: #212121;
+     text-decoration: none;
+     border: 2px solid #212121;
+}
+
+h1{
+     font-size: 24px;
+     margin-bottom: 10px;
+}
+
+.button {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+    border: 2px solid #212121;
+}
+
+#grey {
+    background-color: grey;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#white {
+    background-color: white;
+    border: 2px solid black;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#purple {
+     background-color: purple;
+ }
+ 
+
+
