@@ -56,5 +56,4 @@ switch (e.target.id) {
      }
 
 }); 
-     
 });
